@@ -1,0 +1,8 @@
+Sei incaricato di sviluppare completamente un'applicazione utilizzando il 
+seguente file README come documentazione principale e lo schema SQL allegato 
+per definire la struttura dei dati. L'obiettivo è implementare tutte le 
+funzionalità descritte nel README, gestire il database secondo lo schema, 
+e produrre una soluzione completa che risponda a tutti i requisiti descritti 
+senza la necessità di ulteriori interventi da parte mia. 
+Documenta dettagliatamente il processo e spiega ogni decisione 
+presa durante lo sviluppo.
